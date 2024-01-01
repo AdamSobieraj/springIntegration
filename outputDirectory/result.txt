@@ -1,0 +1,3 @@
+taskdata\input\testowy1
+taskdata\input\testowy2
+taskdata\input\testowy3
